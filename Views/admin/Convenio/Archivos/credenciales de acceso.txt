@@ -1,0 +1,7 @@
+administrador
+-usuario=yesid
+-contraseña=123
+
+granjero
+-usuario=123
+-contraseña=123
